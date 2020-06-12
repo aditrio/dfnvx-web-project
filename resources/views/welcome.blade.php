@@ -11,11 +11,11 @@
     <link href="https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="./assets/css/open-iconic-bootstrap.min.css">
-<<<<<<< HEAD
+
     <link rel="stylesheet" href="./assets/css/animate.css">
-=======
-    <link rel="stylesheet" href="{{ asset('assets/css/animate.css') }}">
->>>>>>> 10b88ab2f984087b2e4309ae5af8ec4fd5d4a46a
+
+    <link rel="stylesheet" href="./assets/css/animate.css">
+a
     
     <link rel="stylesheet" href="./assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="./assets/css/owl.theme.default.min.css">
