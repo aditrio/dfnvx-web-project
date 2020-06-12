@@ -10,7 +10,7 @@
 
     <link href="https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="{{ asset('assets/css/open-iconic-bootstrap.min.css') }}">
+    <link rel="stylesheet" href="./assets/css/open-iconic-bootstrap.min.css">
     <link rel="stylesheet" href="{{ asset('assets/css/animate.css') }}">
     
     <link rel="stylesheet" href="{{ asset('assets/css/owl.carousel.min.css') }}">
