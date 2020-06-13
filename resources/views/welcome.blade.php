@@ -79,7 +79,7 @@
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center">
           <div class="col-lg-7 ftco-animate d-flex align-items-center">
             <div class="text text-center">
-                <h1 class="logo"><a href="/">Health Potion <small>Made by Dnfvxsadksadj</small></a></h1>
+                <h1 class="logo"><a href="/">Health Potion <small>Made by Difa</small></a></h1>
                         <!-- <script src="https://apps.elfsight.com/p/platform.js" defer></script>
                         <div class="elfsight-app-707847d8-231d-41a3-b051-3e21ca437249"></div> -->
                         <!-- <h1 class="mb-4">We Make <br>Something Great</h1> -->
@@ -530,7 +530,7 @@ The COVID-19 virus spreads primarily through droplets of saliva or discharge fro
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This Website is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://www.instagram.com/difanaufalxv/" target="_blank">Dnfvx</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This Website is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://www.instagram.com/difanaufalxv/" target="_blank">Difa</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 
                       <ul class="ftco-footer-social p-0">
